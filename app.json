@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SwiftPay",
-    "slug": "SwiftPay",
+    "name": "ShazamPay",
+    "slug": "ShazamPay",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.neerajx0.SwiftPay"
+      "package": "com.neerajx0.ShazamPay"
     },
     "web": {
       "bundler": "metro",

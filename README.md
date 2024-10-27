@@ -1,6 +1,6 @@
-# SwiftPay
+# ShazamPay
 
-SwiftPay is a mobile application designed to facilitate secure and fast transactions, allowing users to send and receive payments, view transaction histories, check balances, and more. It is built using **React Native** for the frontend and **Spring Boot** for the backend.
+ShazamPay is a mobile application designed to facilitate secure and fast transactions, allowing users to send and receive payments, view transaction histories, check balances, and more. It is built using **React Native** for the frontend and **Spring Boot** for the backend.
 
 ## Features
 
@@ -58,8 +58,8 @@ SwiftPay is a mobile application designed to facilitate secure and fast transact
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SwiftPay.git
-   cd SwiftPay
+   git clone https://github.com/yourusername/ShazamPay.git
+   cd ShazamPay
    ```
 
 2. Install the dependencies:

@@ -1,5 +1,5 @@
 {
-  "name": "swiftpay",
+  "name": "ShazamPay",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -44,7 +44,7 @@
     "react-native-vector-icons": "^10.2.0",
     "react-native-voice": "^0.3.0",
     "react-native-web": "~0.19.10",
-    "swiftpay": "file:",
+    "ShazamPay": "file:",
     "tailwind-rn": "^4.2.0",
     "expo-file-system": "~17.0.1",
     "expo-media-library": "~16.0.5",

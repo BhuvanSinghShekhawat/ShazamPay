@@ -30,7 +30,7 @@ export default function LandingPage() {
             resizeMode="contain"
           />
           <Text style={styles.title}>
-            SwiftPay
+            ShazamPay
           </Text>
           <Text style={styles.tagline}>
           Secure Payments, Simplified for Everyone
